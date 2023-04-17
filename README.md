@@ -6,6 +6,9 @@ OBJECTIVE :
       
       
 PROCEDURE:
+
     Create the .Extension file in inside the pyrevitExtension folder
+    
     load the icon file in .extension for plugin 
+    
     load th script.py file in .extension for plugin 

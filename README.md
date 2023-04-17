@@ -7,8 +7,10 @@ OBJECTIVE :
       
 PROCEDURE:
 
-    Create the .Extension file in inside the pyrevitExtension folder
+    Create the .Extension file folder in inside the pyrevitExtension folder
     
-    load the icon file in .extension for plugin 
+    inside the .extension folder to create .pushbutton folder
     
-    load th script.py file in .extension for plugin 
+    load the icon file in .pushbutton for plugin 
+    
+    load th script.py file in .pushbutton for plugin 

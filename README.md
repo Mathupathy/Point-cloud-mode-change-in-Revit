@@ -11,6 +11,6 @@ PROCEDURE:
     
     inside the .extension folder to create .pushbutton folder
     
-    load the icon file in .pushbutton for plugin 
+    load the icon file in .pushbutton folder for plugin 
     
-    load th script.py file in .pushbutton for plugin 
+    load th script.py file in .pushbutton folder for plugin 
